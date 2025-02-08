@@ -1,4 +1,4 @@
-# Video-Frame-Fxtractor (for anime mostly)
+# Video Frame Extractor (for anime mostly)
  A Colab Notebook to extract frame form a video for collecting dataset for training <p>
 The purpose i made it because [fanscaps](https://fancaps.net/) sometime doesn't have recent screencap for anime that recently aired. <p>
 And also no needed to download a gigs raw anime episode for just some pics especially when you have limited internet data. 
